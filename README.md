@@ -1,9 +1,18 @@
 # pylearn
 Python useful code.
 
-# 1 Androguard
+# 1. Androguard
 
 * [Extract strings in methods by python](https://github.com/ybdesire/pylearn/androguard/extract_strings_in_methods.py)
+
+
+# 2. Network
+
+## 2.1 Google Search API
+
+* [Google search by custom search API](https://github.com/ybdesire/pylearn/google_search_api)
+
+
 
 
 
