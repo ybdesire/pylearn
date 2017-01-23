@@ -10,7 +10,7 @@ Python useful code.
 
 ## 2.1 Google Search API
 
-* [Google search by custom search API](https://github.com/ybdesire/pylearn/google_search_api)
+* [Google search by custom search API](https://github.com/ybdesire/pylearn/tree/master/google_search_api)
 
 
 
