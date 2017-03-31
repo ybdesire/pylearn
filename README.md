@@ -14,3 +14,8 @@ Python useful code.
 
 
 
+# 3. Unicode related
+
+* [Fix: UnicodeDecodeError: 'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence](https://github.com/ybdesire/pylearn/tree/master/unicode_related/open_gbk_file)
+
+
