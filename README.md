@@ -21,9 +21,10 @@ Python useful code.
 
 # 4. configparser
 
-* [Install configparser](https://github.com/ybdesire/pylearn/tree/master/configparser/Readme.md)
-* [Read config parameter](https://github.com/ybdesire/pylearn/tree/master/configparser/read_cfg.py)
-* [Add comment to config file]()
+* [Install configparser (py3)](https://github.com/ybdesire/pylearn/tree/master/configparser/Readme.md)
+* [Read config parameter (py3)](https://github.com/ybdesire/pylearn/tree/master/configparser/read_config)
+* [Read config parameter with comment (py3)](https://github.com/ybdesire/pylearn/tree/master/configparser/read_commented_config)
+
 
 
 
