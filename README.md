@@ -23,7 +23,7 @@ Python useful code.
 
 * [Install configparser](https://github.com/ybdesire/pylearn/tree/master/configparser/Readme.md)
 * [Read config parameter](https://github.com/ybdesire/pylearn/tree/master/configparser/read_cfg.py)
-
+* [Add comment to config file]()
 
 
 
