@@ -16,6 +16,7 @@ Python useful code.
 ## 2.2 FTP
 
 * [Download file from FTP server](https://github.com/ybdesire/WebLearn/blob/master/15_python/ftp_download_files_at_directory.py)
+* [Delete file at FTP](ftplib/del_file_ftp.py)
 * [FTP server and client (download/upload)](https://github.com/ybdesire/WebLearn/tree/master/15_python/pyftpdlib_test)
 
 
