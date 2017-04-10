@@ -32,5 +32,8 @@ Python useful code.
 * [Read config parameter with comment (py3)](https://github.com/ybdesire/pylearn/tree/master/configparser/read_commented_config)
 
 
+# 5. Template
+
+* [Author & version info](program_template/init_author.py)
 
 
