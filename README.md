@@ -23,7 +23,7 @@ Python useful code.
 # 3. Unicode related
 
 * [Fix: UnicodeDecodeError: 'gbk' codec can't decode byte 0xaf in position 2: illegal multibyte sequence (py3)](https://github.com/ybdesire/pylearn/tree/master/unicode_related/open_gbk_file)
-
+* [UTF-8 definition at head](unicode_related/utf8_head.py)
 
 # 4. configparser
 
@@ -35,5 +35,6 @@ Python useful code.
 # 5. Template
 
 * [Author & version info](program_template/init_author.py)
+* [Init py file with UTF-8 definition](unicode_related/utf8_head.py)
 
 
