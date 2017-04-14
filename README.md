@@ -50,3 +50,4 @@ Python useful code.
 
 # 7. File related
 * [list files and dirs at path](file_related/list_files_at_dir.py)
+* [list files and dirs with sub](file_related/list_files_dirs_sub.py)
