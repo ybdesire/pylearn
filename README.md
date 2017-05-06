@@ -86,5 +86,5 @@ Python useful code.
 # 13. Multi-Process
 * [multi process basic usage](multi_process/multi_process_basic_usage.py)
 * [multi process with parameter](multi_process/multi_process_with_para.py)
-
+* [process name and id](multi_process/multi_process_with_name_id.py)
 
