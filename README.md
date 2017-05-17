@@ -55,3 +55,15 @@ Python useful code.
 
 # 8. Useful tips
 * [English punctuations](string_related/string_punctuation.ipynb)
+
+
+# 9. RabbitMQ
+
+* [installation & start service at Win](rabbitmq/install_rabbitmq_win.md)
+
+
+
+
+
+
+
