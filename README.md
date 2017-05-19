@@ -61,15 +61,16 @@ Python useful code.
 # 9. Useful tips
 * [English punctuations (py3)](string_related/string_punctuation.ipynb)
 * [list sort by item (py3)](others/list_sort_by_some_item.py)
+* [cut list into sublist chunks(py3)](others/cut_list_into_sublist_chunks)
 
 
 # 10. RabbitMQ
 
 * [installation & start service at Win (py3)](rabbitmq/install_rabbitmq_win.md)
-* [Send and receive msg](rabbitmq/send_receive_msg/)
-* [Enable and access rabbitmq_management](rabbitmq/enable_rabbitmq_management.md)
-* [Multi-workers](rabbitmq/work_queues)
-* [Publish/Subscribe](rabbitmq/publish_subscribe)
+* [Send and receive msg(py3)](rabbitmq/send_receive_msg/)
+* [Enable and access rabbitmq_management(py3)](rabbitmq/enable_rabbitmq_management.md)
+* [Multi-workers(py3)](rabbitmq/work_queues)
+* [Publish/Subscribe(py3)](rabbitmq/publish_subscribe)
 
 
 # 11. Jupyter
@@ -84,7 +85,7 @@ Python useful code.
 
 
 # 13. Multi-Process
-* [multi process basic usage](multi_process/multi_process_basic_usage.py)
-* [multi process with parameter](multi_process/multi_process_with_para.py)
-* [process name and id](multi_process/multi_process_with_name_id.py)
+* [multi process basic usage(py3)](multi_process/multi_process_basic_usage.py)
+* [multi process with parameter(py3)](multi_process/multi_process_with_para.py)
+* [process name and id(py3)](multi_process/multi_process_with_name_id.py)
 
