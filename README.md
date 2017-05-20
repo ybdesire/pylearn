@@ -89,3 +89,7 @@ Python useful code.
 * [multi process with parameter(py3)](multi_process/multi_process_with_para.py)
 * [process name and id(py3)](multi_process/multi_process_with_name_id.py)
 
+
+# 14. MySQL(pymysql)
+* [Select basic](https://github.com/ybdesire/WebLearn/blob/master/15_python/mysql_select.py)
+
