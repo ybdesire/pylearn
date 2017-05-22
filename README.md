@@ -67,3 +67,13 @@ Python useful code.
 
 * [installation & start service at Win (py3)](rabbitmq/install_rabbitmq_win.md)
 * [Send and receive msg](rabbitmq/send_receive_msg/)
+
+
+# 11. Jupyter
+* [debug at jupyter](jupyter/jupyter_debug.ipynb)
+
+
+
+
+
+
