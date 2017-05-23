@@ -66,4 +66,4 @@ Python useful code.
 # 10. RabbitMQ
 
 * [installation & start service at Win (py3)](rabbitmq/install_rabbitmq_win.md)
-
+* [Send and receive msg](rabbitmq/send_receive_msg/)
