@@ -68,6 +68,7 @@ Python useful code.
 * [installation & start service at Win (py3)](rabbitmq/install_rabbitmq_win.md)
 * [Send and receive msg](rabbitmq/send_receive_msg/)
 * [Enable and access rabbitmq_management](rabbitmq/enable_rabbitmq_management.md)
+* [Multi-workers](rabbitmq/work_queues)
 
 
 # 11. Jupyter
