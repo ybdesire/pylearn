@@ -69,6 +69,7 @@ Python useful code.
 * [Send and receive msg](rabbitmq/send_receive_msg/)
 * [Enable and access rabbitmq_management](rabbitmq/enable_rabbitmq_management.md)
 * [Multi-workers](rabbitmq/work_queues)
+* [Publish/Subscribe](rabbitmq/publish_subscribe)
 
 
 # 11. Jupyter
