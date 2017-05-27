@@ -76,7 +76,8 @@ Python useful code.
 * [debug at jupyter](jupyter/jupyter_debug.ipynb)
 
 
-
+# 12. Bloom Filter
+* [Installation (py2)](pybloom/readme.md)
 
 
 
