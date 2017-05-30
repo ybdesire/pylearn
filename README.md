@@ -80,6 +80,6 @@ Python useful code.
 * [Installation (py2)](pybloom/readme.md)
 * [int bloom filter (py2)](pybloom/basic_int.py)
 * [string bloom filter (py2)](pybloom/basic_str.py)
-
+* [pybloom  py3 support](https://github.com/jaybaird/python-bloomfilter/issues)
 
 
