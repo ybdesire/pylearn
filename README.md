@@ -79,6 +79,7 @@ Python useful code.
 # 12. Bloom Filter
 * [Installation (py2)](pybloom/readme.md)
 * [int bloom filter (py2)](pybloom/basic_int.py)
+* [string bloom filter (py2)](pybloom/basic_str.py)
 
 
 
