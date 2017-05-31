@@ -96,3 +96,4 @@ Python useful code.
 
 # 15. System info
 * [memory usage(py3)](system_info/mem_usage.py)
+* [get pid(py3)](system_info/pid.py)
