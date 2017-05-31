@@ -91,5 +91,8 @@ Python useful code.
 
 
 # 14. MySQL(pymysql)
-* [Select basic](https://github.com/ybdesire/WebLearn/blob/master/15_python/mysql_select.py)
+* [Select basic(py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/mysql_select.py)
 
+
+# 15. System info
+* [memory usage(py3)](system_info/mem_usage.py)
