@@ -62,6 +62,7 @@ Python useful code.
 * [English punctuations (py3)](string_related/string_punctuation.ipynb)
 * [list sort by item (py3)](others/list_sort_by_some_item.py)
 * [cut list into sublist chunks(py3)](others/cut_list_into_sublist_chunks)
+* [format number started with zero(py3)](others/format_with_0x.py)
 
 
 # 10. RabbitMQ
