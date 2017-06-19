@@ -63,6 +63,7 @@ Python useful code.
 * [list sort by item (py3)](others/list_sort_by_some_item.py)
 * [cut list into sublist chunks(py3)](others/cut_list_into_sublist_chunks.py)
 * [format number started with zero(py3)](others/format_with_0x.py)
+* [get list from dict sort by value](others/get_list_from_dict_sort_by_value.py)
 
 
 # 10. RabbitMQ
