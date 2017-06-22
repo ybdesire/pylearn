@@ -18,7 +18,8 @@ Python useful code.
 * [Download file from FTP server (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/ftp_download_files_at_directory.py)
 * [Delete file at FTP (py3)](ftplib/del_file_ftp.py)
 * [FTP server and client (download/upload) (py3)](https://github.com/ybdesire/WebLearn/tree/master/15_python/pyftpdlib_test)
-* [Upload file to specific path at ftp server](ftplib/ftp_upload_to_path.py)
+* [Upload file to specific path at ftp server (py3)](ftplib/ftp_upload_to_path.py)
+* [Download file at specific path at ftp server (py3)]( ftplib/ftp_download_from_path.py)
 
 
 # 3. Unicode related
