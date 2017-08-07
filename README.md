@@ -107,5 +107,7 @@ Python useful code.
 * [apscheduler basic](apscheduler/scheduler.ipynb)
 
 
+# 17. pymongo
+* [mongo connect and find by schema](mongodb/mongo_connect_findone.py)
 
 
