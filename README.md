@@ -118,3 +118,7 @@ Python useful code.
 # 19. urllib
 * [GET request](urllib/http_get_urllib.py)
 
+
+# 20. requests
+* [GET request](requests/http_get_requests.py)
+
