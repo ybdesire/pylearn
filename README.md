@@ -122,3 +122,7 @@ Python useful code.
 # 20. requests
 * [GET request](requests/http_get_requests.py)
 
+
+# 21. package py to exe
+* [pyinstaller for simple program](package_exe/pyinstaller/pyinstaller_simple_program)
+
