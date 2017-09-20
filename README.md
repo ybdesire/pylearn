@@ -122,6 +122,7 @@ Python useful code.
 
 # 20. requests
 * [GET request](requests/http_get_requests.py)
+* [time out setting](requests/requests_timeout.py)
 
 
 # 21. package py to exe
