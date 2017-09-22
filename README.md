@@ -130,3 +130,10 @@ Python useful code.
 * [pyinstaller for sklearn program](package_exe/pyinstaller/pyinstaller_with_sklearn)
 
 
+# 22. logging
+* [logging basic usage](logging/basic_usage.py)
+
+
+
+
+
