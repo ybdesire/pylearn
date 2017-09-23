@@ -132,6 +132,7 @@ Python useful code.
 
 # 22. logging
 * [logging basic usage](logging/basic_usage.py)
+* [display error only](logging/show_error_only.py)
 
 
 
