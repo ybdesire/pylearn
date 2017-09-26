@@ -134,7 +134,7 @@ Python useful code.
 * [logging basic usage](logging/basic_usage.py)
 * [display error only](logging/show_error_only.py)
 * [log format](logging/log_format.py)
-
+* [log to file](logging/log_to_file.py)
 
 
 
