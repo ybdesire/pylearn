@@ -135,6 +135,6 @@ Python useful code.
 * [display error only](logging/show_error_only.py)
 * [log format](logging/log_format.py)
 * [log to file](logging/log_to_file.py)
-
+* [log to file and console](logging/log_to_file_and_console.py)
 
 
