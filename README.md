@@ -136,5 +136,5 @@ Python useful code.
 * [log format](logging/log_format.py)
 * [log to file](logging/log_to_file.py)
 * [log to file and console](logging/log_to_file_and_console.py)
-
+* [log to multi files rotation](logging/log_to_multi_files_rotation.py)
 
