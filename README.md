@@ -110,6 +110,9 @@ Python useful code.
 
 # 17. pymongo
 * [mongo connect and find by schema](mongodb/mongo_connect_findone.py)
+* [find_one](mongodb/findone.py)
+
+
 
 
 # 18. pywebview
