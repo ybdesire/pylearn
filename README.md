@@ -110,6 +110,7 @@ Python useful code.
 
 # 17. pymongo
 * [mongo connect and find by schema](mongodb/mongo_connect_findone.py)
+* [insert_one](mongodb/insert_one.py)
 * [find_one](mongodb/findone.py)
 
 
