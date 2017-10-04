@@ -113,6 +113,7 @@ Python useful code.
 * [insert_one](mongodb/insert_one.py)
 * [remove](mongodb/remove.py)
 * [find_one](mongodb/findone.py)
+* [find_all](mongodb/find_all.py)
 
 
 
