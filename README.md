@@ -114,7 +114,7 @@ Python useful code.
 * [remove](mongodb/remove.py)
 * [find_one](mongodb/findone.py)
 * [find_all](mongodb/find_all.py)
-
+* [find_by_time_period](mongodb/find_by_time_period.py)
 
 
 # 18. pywebview
