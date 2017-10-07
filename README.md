@@ -109,6 +109,7 @@ Python useful code.
 
 
 # 17. pymongo
+* [pymongo readme])(mongodb/readme.md)
 * [mongo connect and find by schema](mongodb/mongo_connect_findone.py)
 * [insert_one](mongodb/insert_one.py)
 * [remove](mongodb/remove.py)
