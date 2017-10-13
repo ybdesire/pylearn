@@ -146,3 +146,11 @@ Python useful code.
 * [log to file and console](logging/log_to_file_and_console.py)
 * [log to multi files rotation](logging/log_to_multi_files_rotation.py)
 
+# 23. json
+* [convert dict to json](json/dict_to_json.py)
+
+
+
+
+
+
