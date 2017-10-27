@@ -117,6 +117,7 @@ Python useful code.
 * [find_all](mongodb/find_all.py)
 * [find_by_time_period](mongodb/find_by_time_period.py)
 * [fuzzy matching](mongodb/fuzzy_match.py)
+* [find by multi-values](mongodb/findall_by_multi_values.py)
 
 
 # 18. pywebview
