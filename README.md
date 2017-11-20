@@ -157,3 +157,8 @@ Python useful code.
 # 24. C langauge extending
 * [py call C with basic parameter at linux](py_call_c_language/basic_py_call_c_linux)
 * [py call C with basic parameter at win](py_call_c_language/basic_py_call_c_win)
+
+
+# 25. Cython
+*[basic demo](cython/basic_demo/readme.md)
+
