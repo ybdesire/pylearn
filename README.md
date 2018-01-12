@@ -67,6 +67,7 @@ Python useful code.
 * [format number started with zero(py3)](others/format_with_0x.py)
 * [get list from dict sort by value](others/get_list_from_dict_sort_by_value.py)
 * [printtolog](others/main_printtolog.py)
+* [py program execution time cost](others/py_execution_time_cost.py)
 
 
 # 10. RabbitMQ
@@ -148,6 +149,7 @@ Python useful code.
 * [log to file](logging/log_to_file.py)
 * [log to file and console](logging/log_to_file_and_console.py)
 * [log to multi files rotation](logging/log_to_multi_files_rotation.py)
+
 
 # 23. json
 * [convert dict to json](json/dict_to_json.py)
