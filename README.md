@@ -68,6 +68,7 @@ Python useful code.
 * [get list from dict sort by value](others/get_list_from_dict_sort_by_value.py)
 * [printtolog](others/main_printtolog.py)
 * [py program execution time cost](others/py_execution_time_cost.py)
+* [Extract email by regx](others/extract_email_from_string.py)
 
 
 # 10. RabbitMQ
