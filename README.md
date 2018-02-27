@@ -134,6 +134,7 @@ Python useful code.
 # 20. requests
 * [GET request](requests/http_get_requests.py)
 * [time out setting](requests/requests_timeout.py)
+* [Acted as Explorer](requests/requests_as_explorer.py)
 
 
 # 21. package py to exe
@@ -167,3 +168,5 @@ Python useful code.
 
 # 26. time
 * [get file creation time](time/get_file_create_time.py)
+
+
