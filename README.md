@@ -166,7 +166,12 @@ Python useful code.
 # 25. Cython
 * [basic demo](cython/basic_demo/readme.md)
 
+
 # 26. time
 * [get file creation time](time/get_file_create_time.py)
+
+
+# 27. BeautifulSoup
+* [basic operation](BeautifulSoup/b4_baisc.py)
 
 
