@@ -173,5 +173,5 @@ Python useful code.
 
 # 27. BeautifulSoup
 * [basic operation](BeautifulSoup/b4_baisc.py)
-
+* [find all specific tag](BeautifulSoup/b4_find_tag_all.py)
 
