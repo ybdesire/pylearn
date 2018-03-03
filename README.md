@@ -175,4 +175,4 @@ Python useful code.
 * [basic operation](BeautifulSoup/b4_baisc.py)
 * [find all specific tag](BeautifulSoup/b4_find_tag_all.py)
 * [find all specific tag with multi-properties](BeautifulSoup/b4_find_tag_all_multi_prop.py)
-
+* [with real http requests](BeautifulSoup/b4_real_requests.py)
