@@ -134,6 +134,7 @@ Python useful code.
 
 # 20. requests
 * [GET request](requests/http_get_requests.py)
+* [POST request](requests/requests_post.py)
 * [time out setting](requests/requests_timeout.py)
 * [Acted as Explorer](requests/requests_as_explorer.py)
 
@@ -177,3 +178,4 @@ Python useful code.
 * [find all specific tag](BeautifulSoup/b4_find_tag_all.py)
 * [find all specific tag with multi-properties](BeautifulSoup/b4_find_tag_all_multi_prop.py)
 * [with real http requests](BeautifulSoup/b4_real_requests.py)
+
