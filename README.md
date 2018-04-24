@@ -110,6 +110,7 @@ Python useful code.
 * [apscheduler basic](apscheduler/scheduler.ipynb)
 * [by linux cmd crontab directly](others/linux_crontab_cmd.md)
 * [apscheduler BlockingScheduler](apscheduler/blocking_scheduler.py)
+* [apscheduler BackgroundScheduler](apscheduler/background_scheduler.py)
 
 
 
