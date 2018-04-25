@@ -111,7 +111,7 @@ Python useful code.
 * [by linux cmd crontab directly](others/linux_crontab_cmd.md)
 * [apscheduler BlockingScheduler](apscheduler/blocking_scheduler.py)
 * [apscheduler BackgroundScheduler](apscheduler/background_scheduler.py)
-
+* [apscheduler set max instance](apscheduler/background_max_instances.py)
 
 
 # 17. pymongo
