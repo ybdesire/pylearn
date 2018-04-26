@@ -46,6 +46,7 @@ Python useful code.
 * [Start new thread by threading.Thread.start() (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/multi_thread/1_start_new_thread.py)
 * [Start new thread by inherit threading.Thread (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/multi_thread/2_threading_run.py)
 * [threading.Lock (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/multi_thread/3_lock.py)
+* [threading.Lock with](threading/with_lock.py)
 * [Condition wait notify (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/multi_thread/4_condition_wait_notify.py)
 * [Event wait and set (py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/multi_thread/5_event_wait_set.py)
 
