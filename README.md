@@ -177,6 +177,7 @@ Python useful code.
 # 26. time
 * [get file creation time](time/get_file_create_time.py)
 * [add or minus month by datetime](time/add_or_minus_month.py)
+* [construct datetime from string](time/construct_datetime_from_string.py)
 
 
 # 27. BeautifulSoup
