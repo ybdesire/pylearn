@@ -72,7 +72,7 @@ Python useful code.
 * [py program execution time cost](others/py_execution_time_cost.py)
 * [Extract email by regx](others/extract_email_from_string.py)
 * [process memory usage monitor](others/process_mem_monitor.py)
-
+* [get py module install path](others/get_module_install_path.py)
 
 # 10. RabbitMQ
 
