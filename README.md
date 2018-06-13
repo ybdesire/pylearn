@@ -73,6 +73,9 @@ Python useful code.
 * [Extract email by regx](others/extract_email_from_string.py)
 * [process memory usage monitor](others/process_mem_monitor.py)
 * [get py module install path](others/get_module_install_path.py)
+* [enumerate list with index and value](others/enumerate_list_index_value.py)
+
+
 
 # 10. RabbitMQ
 
