@@ -199,3 +199,11 @@ Python useful code.
 # 29. WebSocket
 * [basic concept](websocket/Readme.md)
 * [server/client code](websocket/basic_server_client)
+
+
+# 30. deuces(py2)
+* [deuces basic](deuces/basic_usage.py)
+* [generate random cards](deuces/generate_random_cards.py)
+* [evaluate cards rank by score](deuces/evaluate_cards_score.py)
+* [evaluate cards rank by class](deuces/evaluate_cards_rank_class.py)
+* [strategy example](deuces/basic_strategy.py)
