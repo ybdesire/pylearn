@@ -74,7 +74,7 @@ Python useful code.
 * [process memory usage monitor](others/process_mem_monitor.py)
 * [get py module install path](others/get_module_install_path.py)
 * [enumerate list with index and value](others/enumerate_list_index_value.py)
-
+* [deep copy](others/deep_copy.py)
 
 
 # 10. RabbitMQ
