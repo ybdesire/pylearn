@@ -207,3 +207,5 @@ Python useful code.
 * [evaluate cards rank by score](deuces/evaluate_cards_score.py)
 * [evaluate cards rank by class](deuces/evaluate_cards_rank_class.py)
 * [strategy example](deuces/basic_strategy.py)
+* [evaluate than 5 cards](deuces/evaluate_cards_score_than5.py)
+* [strategy example-2](deuces/stratege_input_card_output_action.py)
