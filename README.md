@@ -75,6 +75,7 @@ Python useful code.
 * [get py module install path](others/get_module_install_path.py)
 * [enumerate list with index and value](others/enumerate_list_index_value.py)
 * [deep copy](others/deep_copy.py)
+* [import failure message](others/import_failure_msg.py)
 
 
 # 10. RabbitMQ
@@ -208,4 +209,4 @@ Python useful code.
 * [evaluate cards rank by class](deuces/evaluate_cards_rank_class.py)
 * [strategy example](deuces/basic_strategy.py)
 * [evaluate than 5 cards](deuces/evaluate_cards_score_than5.py)
-* [strategy example-2](deuces/stratege_input_card_output_action.py)
+* [texas holdem strategy example](deuces/stratege_input_card_output_action.py)
