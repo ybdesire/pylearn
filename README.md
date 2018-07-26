@@ -210,3 +210,13 @@ Python useful code.
 * [strategy example](deuces/basic_strategy.py)
 * [evaluate than 5 cards](deuces/evaluate_cards_score_than5.py)
 * [texas holdem strategy example](deuces/stratege_input_card_output_action.py)
+
+
+# 31. gym
+* [readme](gym/readme.md)
+* [no ai game](gym/no_ai_gym.py)
+* [CartPole env details](gym/cart_pole_init_details.py)
+* [CartPole observation,action,reward,done details](gym/cart_pole_more_details.py)
+* [MountainCar-v0 details](gym/mountain_car_more_details.py)
+* [more gym env & examples](https://gym.openai.com/envs/)
+
