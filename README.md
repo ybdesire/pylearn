@@ -220,3 +220,10 @@ Python useful code.
 * [MountainCar-v0 details](gym/mountain_car_more_details.py)
 * [more gym env & examples](https://gym.openai.com/envs/)
 
+
+# 32. ast
+* [how to install](ast/readme.md)
+* [convert string representation of list to list](ast/literal_eval.py)
+
+
+
