@@ -226,4 +226,5 @@ Python useful code.
 * [convert string representation of list to list](ast/literal_eval.py)
 
 
-
+# 33. math
+* [floor & ceil](math/floor_ceil.py)
