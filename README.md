@@ -233,3 +233,17 @@ Python useful code.
 # 34. zmq
 * [zmq server](zmq/basic/zmq_client.py)
 * [zmq client](zmq/basic/zmq_server.py)
+
+
+# 35. langdetect
+* [detect language of string](langdetect/language_detect.py)
+
+
+
+
+
+
+
+
+
+
