@@ -239,6 +239,9 @@ Python useful code.
 * [detect language of string](langdetect/language_detect.py)
 
 
+# 36. flask_restful
+* [RESTful API by flask_restful](flask_restful/rest_server.py)
+* [add sklearn model in flask_restful](flask_restful/rest_server_with_ai.py)
 
 
 
