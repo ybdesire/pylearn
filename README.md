@@ -76,6 +76,7 @@ Python useful code.
 * [enumerate list with index and value](others/enumerate_list_index_value.py)
 * [deep copy](others/deep_copy.py)
 * [import failure message](others/import_failure_msg.py)
+* [check variable type](others/check_var_type.py)
 
 
 # 10. RabbitMQ
