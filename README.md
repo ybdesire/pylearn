@@ -244,6 +244,7 @@ Python useful code.
 * [RESTful API by flask_restful](flask_restful/rest_server.py)
 * [add sklearn model in flask_restful](flask_restful/rest_server_with_ai.py)
 * [RESTful API by flask_restful with CORS](flask_restful/rest_server_cors.py)
+* [simple http server with front end](flask_restful/simple_http_server_with_front_end)
 
 
 

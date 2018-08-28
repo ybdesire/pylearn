@@ -1,0 +1,34 @@
+<html>
+
+<head>
+	<script type="text/javascript" src="jquery-3.3.1.js"></script>
+
+</head>
+
+<body>
+
+    <div>
+        <p>this is a simple http sever by python</p>
+        <button type="button" id="btn_http_get">Get</button>
+        <br></br>
+        <label>get content: </label>
+        <p id="content">   </p>
+        
+    </div>
+</body>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#btn_http_get").click(function(){
+        $.get("http://127.0.0.1:5002/employees", function(data, status){
+            alert("Data: " + data + "\nStatus: " + status);
+    });
+
+	});
+});
+</script>
+
+
+
+
+</html>
