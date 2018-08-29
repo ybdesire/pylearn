@@ -247,6 +247,8 @@ Python useful code.
 * [simple http server with front end](flask_restful/simple_http_server_with_front_end)
 
 
+# 37. socketio
+* [what is socketio](socketio/basic/what.md)
 
 
 
