@@ -249,6 +249,7 @@ Python useful code.
 
 # 37. socketio
 * [what is socketio](socketio/basic/what.md)
+* [socketio basic demo](socketio/basic/readme.md)
 
 
 
