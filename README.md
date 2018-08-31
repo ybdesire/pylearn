@@ -185,6 +185,7 @@ Python useful code.
 * [add or minus month by datetime](time/add_or_minus_month.py)
 * [construct datetime from string](time/construct_datetime_from_string.py)
 * [get datetime year/month/day](time/get_datetime_year_month_day.py)
+* [add or minus year/month/day](time/time_add_substract_hms.py)
 
 
 # 27. BeautifulSoup
