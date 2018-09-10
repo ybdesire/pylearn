@@ -261,5 +261,6 @@ Python useful code.
 # 39. tkinter
 * [basic gui](tkinter/basic.py)
 * [capture user input](tkinter/capture_user_input.py)
+* [layout adjust](tkinter/layout.py)
 
 
