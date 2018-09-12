@@ -263,6 +263,7 @@ Python useful code.
 * [capture user input](tkinter/capture_user_input.py)
 * [layout adjust](tkinter/layout.py)
 * [check button](tkinter/check_button.py)
+* [file browser](tkinter/browser_btn.py)
 
 
 
