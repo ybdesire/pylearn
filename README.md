@@ -264,6 +264,7 @@ Python useful code.
 * [layout adjust](tkinter/layout.py)
 * [check button](tkinter/check_button.py)
 * [file browser](tkinter/browser_btn.py)
+* [complex example](tkinter/complex_example.py)
 
 
 
