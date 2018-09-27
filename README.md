@@ -268,4 +268,6 @@ Python useful code.
 * [complex example](tkinter/complex_example.py)
 
 
+# 40. xml
+* [parse xml basic by xml.etree.ElementTree](xml/parse_xml_basic.py)
 
