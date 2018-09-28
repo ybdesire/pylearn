@@ -270,4 +270,4 @@ Python useful code.
 
 # 40. xml
 * [parse xml basic by xml.etree.ElementTree](xml/parse_xml_basic.py)
-
+* [find element and get element text](xml/find_element.py)
