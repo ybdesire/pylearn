@@ -78,6 +78,7 @@ Python useful code.
 * [import failure message](others/import_failure_msg.py)
 * [check variable type](others/check_var_type.py)
 * [check python 32 or 64 bit](others/check_py_32_64_bit.py)
+* [string to dict](others/str_to_dict.py)
 
 
 # 10. RabbitMQ
