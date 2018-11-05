@@ -285,3 +285,7 @@ Python useful code.
 # 42. Pendulum
 * [get China time](Pendulum/basic.py)
 * [get valid timezon](Pendulum/get_valid_timezons.py)
+
+
+# 43. termcolor
+* [termcolor basic: print colored text](termcolor/termcolor-basic.ipynb)
