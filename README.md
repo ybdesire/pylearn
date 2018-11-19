@@ -273,3 +273,7 @@ Python useful code.
 * [parse xml basic by xml.etree.ElementTree](xml/parse_xml_basic.py)
 * [find element and get element text](xml/find_element.py)
 * [find attribute and get attribute text](xml/find_attri.py)
+
+
+# 41. DataStructure
+* [list as stack](datastructure/list_stack.py)
