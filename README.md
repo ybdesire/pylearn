@@ -278,3 +278,5 @@ Python useful code.
 # 41. DataStructure
 * [list as stack](datastructure/list_stack.py)
 * [list as queue](datastructure/list_queue.py)
+* [link list simple implementation](datastructure/link_list.py)
+
