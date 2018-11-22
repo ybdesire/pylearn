@@ -279,4 +279,5 @@ Python useful code.
 * [list as stack](datastructure/list_stack.py)
 * [list as queue](datastructure/list_queue.py)
 * [link list simple implementation](datastructure/link_list.py)
+* [tree simple implementation](datastructure/tree.py)
 
