@@ -284,3 +284,4 @@ Python useful code.
 
 # 42. Pendulum
 * [get China time](Pendulum/basic.py)
+* [get valid timezon](Pendulum/get_valid_timezons.py)
