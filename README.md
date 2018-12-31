@@ -80,6 +80,7 @@ Python useful code.
 * [check python 32 or 64 bit](others/check_py_32_64_bit.py)
 * [string to dict](others/str_to_dict.py)
 * [string strip/trim](others/strip.py)
+* [count element occurrences in list](others/py_count_element_occurrences.ipynb)
 
 
 # 10. RabbitMQ
