@@ -111,6 +111,7 @@ Python useful code.
 
 # 14. MySQL(pymysql)
 * [Select basic(py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/mysql_select.py)
+* [sql insert](pymysql/insert.py)
 
 
 # 15. System info
