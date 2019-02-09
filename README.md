@@ -292,3 +292,11 @@ Python useful code.
 
 # 43. termcolor
 * [termcolor basic: print colored text](termcolor/termcolor-basic.ipynb)
+
+
+# 44. redis
+* [install and start redis at linux](redis/install_linux.md)
+* [python redis basic](redis/basic_connect.py)
+* [check redis memory usage](redis/memory_usage.py)
+
+
