@@ -202,7 +202,10 @@ Python useful code.
 
 
 # 28. Cryptology
-[RSA encrypt/decrypt](cryptology/rsa_encrypt_decrypt.py)
+* [RSA encrypt/decrypt](cryptology/rsa_encrypt_decrypt.py)
+* [base64 encoding]( cryptology/base64_encoding.py)
+
+
 
 
 # 29. WebSocket
