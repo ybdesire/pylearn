@@ -204,7 +204,7 @@ Python useful code.
 # 28. Cryptology
 * [RSA encrypt/decrypt](cryptology/rsa_encrypt_decrypt.py)
 * [base64 encoding]( cryptology/base64_encoding.py)
-
+* [base64 decode](cryptology/base64_decode.py)
 
 
 
