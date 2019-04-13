@@ -159,6 +159,8 @@ Python useful code.
 # 21. package py to exe
 * [pyinstaller for simple program](package_exe/pyinstaller/pyinstaller_simple_program)
 * [pyinstaller for sklearn program](package_exe/pyinstaller/pyinstaller_with_sklearn)
+* [pyinstaller for ubuntu](package_exe/pyinstaller/pyinstaller_ubuntu)
+
 
 
 # 22. logging
