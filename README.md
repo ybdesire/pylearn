@@ -160,7 +160,7 @@ Python useful code.
 * [pyinstaller for simple program](package_exe/pyinstaller/pyinstaller_simple_program)
 * [pyinstaller for sklearn program](package_exe/pyinstaller/pyinstaller_with_sklearn)
 * [pyinstaller for ubuntu](package_exe/pyinstaller/pyinstaller_ubuntu)
-
+* [run packaged elf file and get output by python](package_exe/pyinstaller/pyinstaller_ubuntu/test.py)
 
 
 # 22. logging
