@@ -83,7 +83,7 @@ Python useful code.
 * [count element occurrences in list](others/py_count_element_occurrences.ipynb)
 * [flatten dict: nested dict to none-nested dict](others/flatten_dict.ipynb)
 * [get and set system recursion limit](others/recursion_limit.py)
-
+* [math combination problem iteration](others/combinations.py)
 
 
 # 10. RabbitMQ
