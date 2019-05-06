@@ -308,3 +308,5 @@ Python useful code.
 * [check redis memory usage](redis/memory_usage.py)
 
 
+# 45. pathlib
+* [basc usage/replace os.path.join]( pathlib/basic.py )
