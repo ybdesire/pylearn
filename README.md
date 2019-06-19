@@ -310,3 +310,7 @@ Python useful code.
 
 # 45. pathlib
 * [basc usage/replace os.path.join]( pathlib/basic.py )
+
+
+# 46. collections
+* [OrderedDict](collections/ordered_dict.py)
