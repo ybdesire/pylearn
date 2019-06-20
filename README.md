@@ -314,3 +314,4 @@ Python useful code.
 
 # 46. collections
 * [OrderedDict](collections/ordered_dict.py)
+* [defaultdict](collections/defaultdict.py)
