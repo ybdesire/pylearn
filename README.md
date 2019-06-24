@@ -316,3 +316,4 @@ Python useful code.
 * [OrderedDict](collections/ordered_dict.py)
 * [defaultdict](collections/defaultdict.py)
 * [namedtuple](collections/namedtuple.py)
+* [deque](collections/deque.py)
