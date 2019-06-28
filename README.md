@@ -317,3 +317,10 @@ Python useful code.
 * [defaultdict](collections/defaultdict.py)
 * [namedtuple](collections/namedtuple.py)
 * [deque](collections/deque.py)
+
+
+# 47. sympy
+* [sympy basic usage](sympy/basic_intro.ipynb)
+
+
+
