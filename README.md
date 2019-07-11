@@ -324,3 +324,6 @@ Python useful code.
 
 
 
+# 48. itertools
+* [multi list combination](itertools/multi_list_combination_by_itertools.ipynb)
+
