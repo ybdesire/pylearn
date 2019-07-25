@@ -321,7 +321,7 @@ Python useful code.
 
 # 47. sympy
 * [sympy basic usage](sympy/basic_intro.ipynb)
-
+* [simplify expression](sympy/simplify.py)
 
 
 # 48. itertools
