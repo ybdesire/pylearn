@@ -84,6 +84,7 @@ Python useful code.
 * [flatten dict: nested dict to none-nested dict](others/flatten_dict.ipynb)
 * [get and set system recursion limit](others/recursion_limit.py)
 * [math combination problem iteration](others/combinations.py)
+* [args kargs](others/py_args_kargs.ipynb)
 
 
 # 10. RabbitMQ
