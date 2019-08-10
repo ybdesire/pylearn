@@ -142,6 +142,7 @@ Python useful code.
 * [fuzzy matching](mongodb/fuzzy_match.py)
 * [find by multi-values](mongodb/findall_by_multi_values.py)
 * [pseudo fuzzy matching](mongodb/pseudo_fuzzy_match.py)
+* [update](mongodb/mongo_update.py)
 
 
 # 18. pywebview
