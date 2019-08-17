@@ -143,6 +143,7 @@ Python useful code.
 * [find by multi-values](mongodb/findall_by_multi_values.py)
 * [pseudo fuzzy matching](mongodb/pseudo_fuzzy_match.py)
 * [update](mongodb/mongo_update.py)
+* [check if item exists](mongodb/mongo_check_if_item_exists.py)
 
 
 # 18. pywebview
