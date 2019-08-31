@@ -144,6 +144,7 @@ Python useful code.
 * [pseudo fuzzy matching](mongodb/pseudo_fuzzy_match.py)
 * [update](mongodb/mongo_update.py)
 * [check if item exists](mongodb/mongo_check_if_item_exists.py)
+* [find string item with non-blank string content](mongodb/mongo_find_non_blank_string.py)
 
 
 # 18. pywebview
