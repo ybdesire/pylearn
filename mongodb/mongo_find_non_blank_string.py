@@ -15,7 +15,7 @@ try:
     collection = db[collname]
 
     # find item with non-blank string
-    result = collection.find({"lastname" : {"$exists" : true, "$ne" : ""}})
+    result = collection.find({"lastname" : {"$exists" : True, "$ne" : ""}})
 
 except Exception as e:
     s = sys.exc_info()
