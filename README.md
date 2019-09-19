@@ -331,3 +331,7 @@ Python useful code.
 # 48. itertools
 * [multi list combination](itertools/multi_list_combination_by_itertools.ipynb)
 * [logic source code of multi list combination/itertools product](itertools/multi_list_combination_logic_source_code.ipynb)
+
+
+# 49. mmap
+* [basic mmap read/write](mmap/mmp_r_w.py)
