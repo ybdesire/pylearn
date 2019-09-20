@@ -335,3 +335,4 @@ Python useful code.
 
 # 49. mmap
 * [basic mmap read/write](mmap/mmp_r_w.py)
+* [parse bin file by byte accessing](mmap/byte_access.py)
