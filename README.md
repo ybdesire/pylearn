@@ -336,3 +336,8 @@ Python useful code.
 # 49. mmap
 * [basic mmap read/write](mmap/mmp_r_w.py)
 * [parse bin file by byte accessing](mmap/byte_access.py)
+
+
+# 50. struct
+* [parse bytes to long int](struct/parse_bytes_to_long_int.py)
+
