@@ -340,4 +340,4 @@ Python useful code.
 
 # 50. struct
 * [parse bytes to long int](struct/parse_bytes_to_long_int.py)
-
+* [parse byte string by big/little endian](struct/byte_str_to_big_little_endian.py)
