@@ -347,3 +347,5 @@ Python useful code.
 * [traceback basic exception enhancement](traceback/traceback_basic.py)
 
 
+# 52. uiautomator
+* [setup android auto ui test environment](uiautomator/readme.md)
