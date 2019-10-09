@@ -349,3 +349,9 @@ Python useful code.
 
 # 52. uiautomator
 * [setup android auto ui test environment](uiautomator/readme.md)
+
+
+# 53. re
+* [extract strings from string with special bracket format](re/extract_str_from_str_with_bracket.py)
+
+
