@@ -85,6 +85,7 @@ Python useful code.
 * [get and set system recursion limit](others/recursion_limit.py)
 * [math combination problem iteration](others/combinations.py)
 * [args kargs](others/py_args_kargs.ipynb)
+* [repr to treat \n as 2 characters](others/repr_for_string_escape.py)
 
 
 # 10. RabbitMQ
