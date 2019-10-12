@@ -86,6 +86,7 @@ Python useful code.
 * [math combination problem iteration](others/combinations.py)
 * [args kargs](others/py_args_kargs.ipynb)
 * [repr to treat \n as 2 characters](others/repr_for_string_escape.py)
+* [input a list directly](others/py3_input_a_list_directly.py)
 
 
 # 10. RabbitMQ
