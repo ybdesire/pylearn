@@ -357,3 +357,6 @@ Python useful code.
 * [extract strings from string with special bracket format](re/extract_str_from_str_with_bracket.py)
 
 
+# 54. objsize
+* [get list/dict size in memory as byte](objsize/get_object_size.ipynb)
+
