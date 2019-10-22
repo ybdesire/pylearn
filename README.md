@@ -147,6 +147,7 @@ Python useful code.
 * [update](mongodb/mongo_update.py)
 * [check if item exists](mongodb/mongo_check_if_item_exists.py)
 * [find string item with non-blank string content](mongodb/mongo_find_non_blank_string.py)
+* [find by id,  by _id](mongodb/find_by_id.py)
 
 
 # 18. pywebview
