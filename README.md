@@ -356,6 +356,7 @@ Python useful code.
 
 # 53. re
 * [extract strings from string with special bracket format](re/extract_str_from_str_with_bracket.py)
+* [re.match(), match re with list of strings](re/match.py)
 
 
 # 54. objsize
