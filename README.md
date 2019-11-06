@@ -87,6 +87,7 @@ Python useful code.
 * [args kargs](others/py_args_kargs.ipynb)
 * [repr to treat \n as 2 characters](others/repr_for_string_escape.py)
 * [input a list directly](others/py3_input_a_list_directly.py)
+* [sort list of list by length and actual item](others/sort_list_of_list.ipynb)
 
 
 # 10. RabbitMQ
