@@ -114,6 +114,7 @@ Python useful code.
 * [multi process basic usage(py3)](multi_process/multi_process_basic_usage.py)
 * [multi process with parameter(py3)](multi_process/multi_process_with_para.py)
 * [process name and id(py3)](multi_process/multi_process_with_name_id.py)
+* [multi process timeout](multi_process/multi_process_timeout.py)
 
 
 # 14. MySQL(pymysql)
