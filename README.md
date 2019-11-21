@@ -365,3 +365,8 @@ Python useful code.
 # 54. objsize
 * [get list/dict size in memory as byte](objsize/get_object_size.ipynb)
 
+
+# 55. elasticsearch
+* [count elasticsearch](elasticsearch/count.py)
+
+
