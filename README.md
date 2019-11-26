@@ -371,3 +371,6 @@ Python useful code.
 * [count elasticsearch](elasticsearch/count.py)
 
 
+# 56. inspect
+* [get module,package source code](inspect/get_module_package_source_code.py)
+
