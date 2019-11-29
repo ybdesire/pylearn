@@ -374,3 +374,6 @@ Python useful code.
 # 56. inspect
 * [get module,package source code](inspect/get_module_package_source_code.py)
 
+
+# 57. reloadr
+* [hot update, auto reload modified module](reloadr/)
