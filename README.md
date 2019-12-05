@@ -377,3 +377,7 @@ Python useful code.
 
 # 57. reloadr
 * [hot update, auto reload modified module](reloadr/)
+
+
+# 58. os
+* [fork, getpid, get parent id](os/osfork.py)
