@@ -152,6 +152,7 @@ Python useful code.
 * [check if item exists](mongodb/mongo_check_if_item_exists.py)
 * [find string item with non-blank string content](mongodb/mongo_find_non_blank_string.py)
 * [find by id,  by _id](mongodb/find_by_id.py)
+* [reproduce and fix "RecursionError: maximum recursion depth exceeded in comparison"](mongodb/error_maximum_recursion_depth.py)
 
 
 # 18. pywebview
