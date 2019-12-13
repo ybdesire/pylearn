@@ -386,5 +386,5 @@ Python useful code.
 
 # 59. talib
 * [talib environment setup](talib/env_setup.md)
-
+* [simple moving average](talib/sma.py)
 
