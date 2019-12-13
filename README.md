@@ -382,3 +382,9 @@ Python useful code.
 
 # 58. os
 * [fork, getpid, get parent id](os/osfork.py)
+
+
+# 59. talib
+* [talib environment setup](talib/env_setup.md)
+
+
