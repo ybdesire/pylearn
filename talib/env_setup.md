@@ -16,9 +16,12 @@ $ pip install TA-Lib
 
 
 ```
-import python
+import talib
 ```
 
+# reference
+
+* https://www.fmz.com/bbs-topic/1234
 
 
 
