@@ -389,3 +389,10 @@ Python useful code.
 * [talib environment setup](talib/env_setup.md)
 * [simple moving average](talib/sma.py)
 
+
+# 60. timeout-decorator
+* [basic timeout demo by sigal](timeout-decorator/timeoutdemo.py)
+* [set timeout by process](timeout-decorator/tmot_byp.py)
+
+
+
