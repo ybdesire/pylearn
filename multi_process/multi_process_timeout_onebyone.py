@@ -15,7 +15,7 @@ def main():
 
     args = [(1,1,1),(1,2,1),(2,1,2),(0,0,1),(1,0,1),(2,2,2),(6,6,6)]
     for arg in args:
-        pool = Pool()
+        pool = Pool(1)
         pool_result = pool.map_async(worker, [arg])
 
         # wait 8s for every worker to finish
