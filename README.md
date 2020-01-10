@@ -210,6 +210,7 @@ Python useful code.
 * [get datetime year/month/day](time/get_datetime_year_month_day.py)
 * [add or minus year/month/day](time/time_add_substract_hms.py)
 * [get seconds of two time substraction](time/get_seconds_of_two_time_substraction.py)
+* [datetime to string](time/datetime_to_string.py)
 
 
 # 27. BeautifulSoup
