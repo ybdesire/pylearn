@@ -118,6 +118,7 @@ Python useful code.
 * [process name and id(py3)](multi_process/multi_process_with_name_id.py)
 * [multi process timeout](multi_process/multi_process_timeout.py)
 * [Ctrl+C / SIGINT and exit multiprocesses](multi_process/multi_process_ctrl_c_end.py)
+* [wait all sub process to end](multi_process/wait_all_sub_process.py)
 
 
 # 14. MySQL(pymysql)
