@@ -90,6 +90,7 @@ Python useful code.
 * [sort list of list by length and actual item](others/sort_list_of_list.ipynb)
 * [Count number of occurrences of a given substring in a string](others/str_count_substr.py)
 * [import module from another path](others/import_module_from_another_path.py)
+* [call static methods inside the same class](others/static_method_call_static.py)
 
 
 # 10. RabbitMQ
