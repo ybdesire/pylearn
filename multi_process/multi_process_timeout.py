@@ -13,12 +13,12 @@ def worker(x):
 
 def main():
 
-    pool = Pool()
+    pool = Pool(3)# max 3 processes
     args = [(1,1,1),(1,2,1),(2,1,2),(0,0,1),(1,0,1),(2,2,2),(6,6,6)]
     pool_result = pool.map_async(worker, args)
 
     # wait 8s for every worker to finish
-    pool_result.wait(timeout=8)
+    pool_result.wait(timeout=8)# 8s for 3 processes
 
     # once the timeout has finished we can try to get the results
     if pool_result.ready():
