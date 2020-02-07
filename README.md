@@ -402,3 +402,10 @@ Python useful code.
 # 61. argparse
 * [arg parse basic](argparse/argbasic.py)
 
+# 62. psutil
+* [check if process exists by name](psutil/check_if_process_exists_by_name.py)
+* [get all running process cmdline](psutil/get_all_running_process_cmdline.py)
+* [get all running process name](psutil/get_all_running_process_name.py)
+* [kill process by pid](psutil/kill_process_by_pid.py)
+
+
