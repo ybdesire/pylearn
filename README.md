@@ -409,3 +409,7 @@ Python useful code.
 * [kill process by pid](psutil/kill_process_by_pid.py)
 
 
+# 63 celery
+* [worker & sender basic](celery/worker_sender_test/readme.md)
+
+
