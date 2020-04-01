@@ -413,3 +413,8 @@ Python useful code.
 * [worker & sender basic](celery/worker_sender_test/readme.md)
 
 
+# 64 hashlib
+* [sha1, sha256](hashlib/sha1_sha256.py)
+
+
+
