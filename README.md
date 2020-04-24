@@ -421,8 +421,8 @@ Python useful code.
 * [instal and get tlsh-hash value for str](tlsh/readme.md)
 
 
-# 66. socker
-* [get ip address](pylearn/socket/get_ip_address.py)
+# 66. socket
+* [get ip address](socket/get_ip_address.py)
 
 
 # 67. diskcache
