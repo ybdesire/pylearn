@@ -424,3 +424,7 @@ Python useful code.
 # 66. socker
 * [get ip address](pylearn/socket/get_ip_address.py)
 
+
+# 67. diskcache
+* [set, dump, get data for cache](diskcache/basic.py)
+
