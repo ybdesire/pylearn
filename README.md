@@ -428,3 +428,7 @@ Python useful code.
 # 67. diskcache
 * [set, dump, get data for cache](diskcache/basic.py)
 
+
+# 68. zlib
+* [compress & decompress byte string](zlib/zlib_compress_decompress_bstr.py)
+
