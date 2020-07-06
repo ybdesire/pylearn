@@ -13,5 +13,7 @@ try:
     1/0
 except Exception as e:
     traceback.print_exc()
+    exmsg = traceback.format_exc()
+    print(exmsg)
 
 
