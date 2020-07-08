@@ -432,3 +432,8 @@ Python useful code.
 # 68. zlib
 * [compress & decompress byte string](zlib/zlib_compress_decompress_bstr.py)
 
+
+# 69. flask
+* [restful api send/receive image](flask/restful_send_rcv_image)
+
+
