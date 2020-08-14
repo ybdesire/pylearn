@@ -436,4 +436,5 @@ Python useful code.
 # 69. flask
 * [restful api send/receive image](flask/restful_send_rcv_image)
 
-
+# 70. selenium
+* [crawler with js running at chrome](selenium/crawler_basic.py)
