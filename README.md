@@ -437,4 +437,5 @@ Python useful code.
 * [restful api send/receive image](flask/restful_send_rcv_image)
 
 # 70. selenium
-* [crawler with js running at chrome](selenium/crawler_basic.py)
+* [find html element](selenium/selenium_webdriver_find_element.py)
+* [click button, input username and password](selenium/selenium_webdriver_click_btn_write_passwd.py)
