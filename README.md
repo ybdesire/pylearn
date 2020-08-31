@@ -397,10 +397,12 @@ Python useful code.
 # 60. timeout-decorator
 * [basic timeout demo by sigal](timeout-decorator/timeoutdemo.py)
 * [set timeout by process](timeout-decorator/tmot_byp.py)
+* [catch timeout exception](timeout-decorator/catch_timeout_exception.py)
 
 
 # 61. argparse
 * [arg parse basic](argparse/argbasic.py)
+
 
 # 62. psutil
 * [check if process exists by name](psutil/check_if_process_exists_by_name.py)
