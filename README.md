@@ -279,6 +279,7 @@ Python useful code.
 * [simple http server with front end](flask_restful/simple_http_server_with_front_end)
 * [http get with parameter](post_get_para/api_server.py)
 * [http post](post_get_para/api_server.py)
+* [http post data as list](flask_restful/post_list)
 
 
 # 37. socketio
