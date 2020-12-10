@@ -444,3 +444,10 @@ Python useful code.
 # 70. selenium
 * [find html element](selenium/selenium_webdriver_find_element.py)
 * [click button, input username and password](selenium/selenium_webdriver_click_btn_write_passwd.py)
+
+# 71. tesseract
+* [ocr py tesseract](https://github.com/ybdesire/tesseract_test/blob/main/main.py)
+
+
+
+
