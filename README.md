@@ -448,6 +448,7 @@ Python useful code.
 # 71. tesseract
 * [ocr py tesseract](https://github.com/ybdesire/tesseract_test/blob/main/main.py)
 
-
+# 72. textdistance
+* [levenshtein distance](textdistance/basic_levenshtein.py)
 
 
