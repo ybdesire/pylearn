@@ -451,4 +451,5 @@ Python useful code.
 # 72. textdistance
 * [levenshtein distance](textdistance/basic_levenshtein.py)
 
-
+# 73. Stringlifier
+* [check if string is random](stringlifier/random_str_check.py)
