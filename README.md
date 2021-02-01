@@ -453,3 +453,7 @@ Python useful code.
 
 # 73. Stringlifier
 * [check if string is random](stringlifier/random_str_check.py)
+
+# 74. dhash
+* [dhash basic](dhash/readme.md)
+* [get dhash value](dhash/get_dhash.py)
