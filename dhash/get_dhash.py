@@ -4,7 +4,7 @@ from PIL import Image
 def get_dhash(img_path, s):
     image = Image.open(img_path)
     row, col = dhash.dhash_row_col(image, size=s)
-    hh = dhash.format_hex(row, col)
+    hh = dhash.format_hex(row, col, size=s)
     return hh
 
 
