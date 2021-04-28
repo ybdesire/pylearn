@@ -457,3 +457,7 @@ Python useful code.
 # 74. dhash
 * [dhash basic](dhash/readme.md)
 * [get dhash value](dhash/get_dhash.py)
+
+
+# 75. benedict
+* [iteration nested dict(dict of dict)](benedict/parse_dict_of_dict.py)
