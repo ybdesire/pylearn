@@ -304,6 +304,7 @@ Python useful code.
 * [parse xml basic by xml.etree.ElementTree](xml/parse_xml_basic.py)
 * [find element and get element text](xml/find_element.py)
 * [find attribute and get attribute text](xml/find_attri.py)
+* [parse android manifest to get permission, activity, service, receiver, action name](https://github.com/ybdesire/android_security_learn/blob/master/parse_android_manifest/get_permission_activity_action_service_list.py)
 
 
 # 41. DataStructure
