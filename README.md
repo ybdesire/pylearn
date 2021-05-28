@@ -462,3 +462,7 @@ Python useful code.
 
 # 75. benedict
 * [iteration nested dict(dict of dict)](benedict/parse_dict_of_dict.py)
+
+# 76. pickle
+* [pickle load,dump and compare with joblib](pickle/pickle_joblib_compare.py)
+
