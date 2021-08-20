@@ -466,3 +466,7 @@ Python useful code.
 # 76. pickle
 * [pickle load,dump and compare with joblib](pickle/pickle_joblib_compare.py)
 
+
+# 77. google-play-scraper
+
+* [get gp app comment](google_play_scraper/get_gp_app_comment.py)
