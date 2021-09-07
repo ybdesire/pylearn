@@ -468,5 +468,11 @@ Python useful code.
 
 
 # 77. google-play-scraper
-
 * [get gp app comment](google_play_scraper/get_gp_app_comment.py)
+
+
+# 78. fitter
+* [get data distribution and parameters](fitter/basic_fit_and_get_para.py)
+
+
+
