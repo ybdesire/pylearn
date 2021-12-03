@@ -91,6 +91,7 @@ Python useful code.
 * [Count number of occurrences of a given substring in a string](others/str_count_substr.py)
 * [import module from another path](others/import_module_from_another_path.py)
 * [call static methods inside the same class](others/static_method_call_static.py)
+* [sort tuple/list by multiple rules](others/sort_by_multiple_rules.py)
 
 
 # 10. RabbitMQ
