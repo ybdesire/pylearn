@@ -476,5 +476,5 @@ Python useful code.
 * [get data distribution and parameters](fitter/basic_fit_and_get_para.py)
 
 # 79. flask
-*[website template](https://github.com/ybdesire/pylearn/tree/master/flask_website_tmp)
+* [website template](https://github.com/ybdesire/pylearn/tree/master/flask_website_tmp)
 
