@@ -121,7 +121,7 @@ Python useful code.
 * [multi process timeout](multi_process/multi_process_timeout.py)
 * [Ctrl+C / SIGINT and exit multiprocesses](multi_process/multi_process_ctrl_c_end.py)
 * [wait all sub process to end](multi_process/wait_all_sub_process.py)
-
+* [time out function after 10s](https://github.com/ybdesire/pylearn/blob/master/multi_process/time_out_multiprocess.py)
 
 # 14. MySQL(pymysql)
 * [Select basic(py3)](https://github.com/ybdesire/WebLearn/blob/master/15_python/mysql_select.py)
