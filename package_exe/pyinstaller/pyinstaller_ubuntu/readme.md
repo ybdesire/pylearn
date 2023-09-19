@@ -27,3 +27,9 @@ final result is 13
 
 ```
 
+
+# multiple file to one elf
+
+```
+pyinstaller -F  -w main.py -p fea_ext.py -p model.jl
+```
