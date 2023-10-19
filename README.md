@@ -478,3 +478,7 @@ Python useful code.
 # 79. flask
 * [website template](https://github.com/ybdesire/pylearn/tree/master/flask_website_tmp)
 
+# 80. simhash
+* [simhash distance for two text](simhash/dist.py)
+
+
