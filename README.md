@@ -481,4 +481,5 @@ Python useful code.
 # 80. simhash
 * [simhash distance for two text](simhash/dist.py)
 
-
+# 90. strsimpy
+* [similarity score for two text by Jaro-Winkler similarity](strsimpy/jaro_winkler_score.py)
