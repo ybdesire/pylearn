@@ -38,12 +38,18 @@ so we can get so file at : `build/lib.linux-x86_64-cpython-37/mytest.cpython-37m
 2. python code as below
 
 ```python
->>> import ctypes
->>> so = ctypes.CDLL('./mytest.cpython-37m-x86_64-linux-gnu.so')
 >>> from mytest import mytest
 >>> mytest().say()
 init
 hello
 ```
+
+
+**Attention:** the so cannot be treated as c language so.
+   - more details: https://stackoverflow.com/questions/76040451/unable-to-find-functions-for-a-cython-build-through-c-language
+
+
+
+
 
 
