@@ -202,10 +202,10 @@ Python useful code.
 * [py call C with basic parameter at linux](py_call_c_language/basic_py_call_c_linux)
 * [py call C with basic parameter at win](py_call_c_language/basic_py_call_c_win)
 
-
 # 25. Cython
 * [basic demo](cython/basic_demo/readme.md)
-
+* [convert python code to so file](https://github.com/ybdesire/pylearn/blob/master/py_to_so/readme.md)
+* [python call functions from so file](https://github.com/ybdesire/pylearn/blob/master/py_to_so/readme.md)
 
 # 26. time
 * [get file creation time](time/get_file_create_time.py)
