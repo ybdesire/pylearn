@@ -1,12 +1,13 @@
 from flask import Flask
 from flask_restful import reqparse, abort, Api, Resource
+from flask import request
 
 app = Flask(__name__)
 api = Api(app)
 
 
 parser = reqparse.RequestParser()
-parser.add_argument('task')
+parser.add_argument('task', location='args')
 
 
 
@@ -18,7 +19,7 @@ class TodoList(Resource):
         return {'task': args['task'], 'http':'get'}
 
     def post(self):
-        args = parser.parse_args()
+        args = request.get_json()
         return {'task': args['task'], 'http':'post'}
 
 api.add_resource(TodoList, '/todos')
@@ -26,3 +27,8 @@ api.add_resource(TodoList, '/todos')
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port='8002',debug=True)
+
+
+
+
+
